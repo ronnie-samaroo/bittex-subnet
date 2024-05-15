@@ -52,7 +52,7 @@ Miners' scores are calculated based on their activity in each swap, with additio
 
 ## Links
 
-- **GitHub Repository**: https://github.com/ronnie-samaroo/bittex-subnet/
+- **GitHub Repository**: https://github.com/ronx-labs/bittex-subnet/
 - **Website**: https://bittex.xyz/
 - **App**: https://app.bittex.xyz/
 - **X Account**: https://twitter.com/BittexSN/
